@@ -111,4 +111,4 @@ référencement naturel)
 ### AUTRES THÉMATIQUES ABORDÉES DURANT CETTE FORMATION
 * Études de cas / exemples de sites développés avec WordPress
 * Liste des meilleurs plugins WordPress pour votre site
-• Découvrir BuddyPress et WooCommerce
+* Découvrir BuddyPress et WooCommerce
