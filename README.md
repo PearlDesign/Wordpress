@@ -9,4 +9,4 @@
 * Installation d'un thème ex: divi [Lien](https://www.elegantthemes.com/documentation/divi/install-divi/) 
 * Installation d'un plugin [Lien](https://wpformation.com/comment-installer-plugin-wordpress-gratuit-premium/) 
 ** Liste de plugin :
-          - 
+         `* Une sous-puce`
