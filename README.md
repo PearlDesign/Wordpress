@@ -24,10 +24,10 @@ très important il ne faut pas oublié de modifier
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /__nomdudossierwp__/
+RewriteBase /nomdudossierwp/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /__nomdudossierwp__/index.php [L]
+RewriteRule . /nomdudossierwp/index.php [L]
 </IfModule>
 
