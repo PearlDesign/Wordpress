@@ -16,3 +16,7 @@
 * Sauvegarder son site bdd + wordpress [Lien](https://fr.wordpress.org/plugins/updraftplus/)
 * Formulaire de contact [Lien](https://fr.wordpress.org/plugins/contact-form-7/)
 * Dupliquer le site [Lien](https://fr.wordpress.org/plugins/duplicator/)
+
+
+###### Fichier .htaccess
+Il faut récupérer le fichier .htacces qui est à la racine des fichiers wordpress
